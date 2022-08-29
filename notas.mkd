@@ -1,8 +1,21 @@
 # PROGRAMACION
-<!---------------------------- ALGORITMOS --------------------->
-## ALGORITMO:
-- Un algoritmo representa un PROCEDIMIENTO, una secuencia ordenada de acciones dirigidas a solucionar un problema especifico. Implica una transformacion de un conjunto de datos(DATOS DE ENTRADA), necesarios para obtener durante el procedimiento un resultado deseado(DATOS DE SALIDA).
-El procedimiento representa un conjunto de operaciones, acciones o instrucciones
+<!-----------------------------PROGRAMACION  ----------------->
+- Crear un programa se define como crear inctrucciones, procedimientos y operaciones para resolver un PROBLEMA.
+## PROBLEMA:
+- Para solucionar el problema hay que primero encontrar una solucion viable con una idea de PROCEDIMIENTO y sus DATOS, para poder crear una solucion esperada por medio de un ALGORITMO. 
+- Ejemplo: si tenemeos que obtener un precio final de una suscripcion de netflix y tenemos unicamente el dato del precio que brinda la plataforma en USD, debemos primero, convertir los USD en ARS y sumarle los impuestos vigente del pais, para obtener como resultado final el precio a total en ARS a pagar.
 
-<!------------------ ESTRUCTURAD DE CONTROL --------------------->
+<!------------------------ ALGORITMOS y DIAGRAMA DE FLUJOS---------------->
+## ALGORITMO:
+- Un algoritmo representa un PROCEDIMIENTO, una secuencia ordenada de "acciones" dirigidas a solucionar un problema especifico. Implica una transformacion de un conjunto de datos(DATOS DE ENTRADA), necesarios para obtener durante el procedimiento un resultado deseado(DATOS DE SALIDA).
+El procedimiento representa un conjunto de operaciones, acciones o instrucciones.
+- Un algoritmo puede ser representado por:
+ Graficamente en un diagrama de flujo,  grafico que tiene un nodo de inicio, un proceso de elementos(datosDeEsntrada) y datos de salida, conectados por flechas que indican la direccion de la secuencia.
+ Tambien por un Pseudocodigo representado textualmente agrupados en bloques de operaciones indentadas para dar un orden a la secuencia de instrucciones.
+ 
+<!------------------ ESTRUCTURAs DE CONTROL --------------------->
 ## ESTRUCTURAS DE CONTROL:
+- Son definidos y clasificados para resolver diferentes problemas computacionales, ya que existen diferentes tipos de datos a procesar.
+### TIPOS DE DATOS:
+- Determina el caracter del dato y como son almacenados, se clasifican en NUMERICOS(nros enteros o reales), BOOLEANOS(true/false), CARACTER(char) Y CADENA(string)
+
