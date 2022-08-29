@@ -13,11 +13,12 @@ El procedimiento representa un conjunto de operaciones, acciones o instrucciones
  Graficamente en un diagrama de flujo,  grafico que tiene un nodo de inicio, un proceso de elementos(datosDeEsntrada) y datos de salida, conectados por flechas que indican la direccion de la secuencia.
  Tambien por un Pseudocodigo representado textualmente agrupados en bloques de operaciones indentadas para dar un orden a la secuencia de instrucciones.
  
-<!------------------ ESTRUCTURAs DE CONTROL --------------------->
+<!------------------ ESTRUCTURAS DE CONTROL --------------------->
 ## ESTRUCTURAS DE CONTROL:
 - Son definidos y clasificados para resolver diferentes problemas computacionales, ya que existen diferentes tipos de datos a procesar.
 ### TIPOS DE DATOS:
 - Determina el caracter del dato y como son almacenados, se clasifican en NUMERICOS(nros enteros o reales), BOOLEANOS(true/false), CARACTER(char) Y CADENA(string)
+- Las strings o textos se escriben entre comillas, lo que no es necesario para numeros, si un numero se escribe dentro de un string funcionara como texto.
 ### OPERACIONES:
 Los operadores se dividen en ALGEBRAICOS Y RACIONALES.
 - ALGEBRAICOS: (+)suma, (-)resta, (*)muiltiplicacion, (/)division y (resto/modulo)MOD.
@@ -25,7 +26,19 @@ Los operadores se dividen en ALGEBRAICOS Y RACIONALES.
 ### EXPRESIONES:
 - Los datos junto a las operaciones definen EXPRECIONES. Estas pueden producir nuevos datos como EXPRESIONES LOGICAS o NUMERICAS.
 - EXPRESIONES LOGICAS: evaluan el contenido de una exprecion y devuelven un resultado booleano. Las mas comunes incluyen peradores como CONJUNCION, DISYUNCION Y NEGACION.
-
 - EXPRESIONES NUMERICAS: son resultado de operaciones numericas mediante operadores algebraicos.
 ### VARIABLES (VAR)
-- Contenedor que iden
+- sirve para identificar los datos en contenedores
+- se clasifican segun su contenido ej: NUMERO, NUMERICO, REAL, ENTERO, LOGICO, CARACTER, TEXTO, STRING.
+### ARREGLOS (ARRAYS)
+- son estructuras de datos(todos del mismo tipo) que permiten almacenar un determinado numero de datos bajo el mismo indicador 
+## 1 ESTRUCTURA SECUENCIAL
+- significa que las operaciones definidas en el algoritmo son ejecutadas segun el orden declarado, este orden puede ser alterado por otras estructuras
+## 2 ESTRUCTURAS SELECTIVAS(control)
+- representan tomas de deciciones en el flujo del algoritmo con condicionales del tipo "si entonces"(if) o una decicion binaria del tipo TRUE O FALSE.
+- Estas estructuras pueden incluir varios estados o resultados (switch) a diferencia de las expreciones condicionales en las que hay solo 2 resultados posibles.
+- Ej de algoritmo selectivo: si como mayores de edad podemos ver una pelicula, como menores se nos deniega el acceso.
+- Ej de algoritmo seleccion multiple: ingrsando las notas de un examen saber si esta aprobado o desaprobado, en este caso si ingresamos entre 6a10 el programa dara aprobado si ingresamos entre 1a5 dara desaprobado.
+## 3 ESTRUCUTRAS REPETITIVAS:
+- Comunmente llamados ciclos o bucles, son procesos que se repiten un cierto numero de veces hasta que se cumple una determinacion.
+Se clasifican en mientras(while), repetir hasta que(repeat), para(for), tambien se utilizan para terminar una estructura repetitiva los condicionales "continuar", "jump"
