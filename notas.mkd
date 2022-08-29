@@ -1,0 +1,8 @@
+# PROGRAMACION
+<!---------------------------- ALGORITMOS --------------------->
+## ALGORITMO:
+- Un algoritmo representa un PROCEDIMIENTO, una secuencia ordenada de acciones dirigidas a solucionar un problema especifico. Implica una transformacion de un conjunto de datos(DATOS DE ENTRADA), necesarios para obtener durante el procedimiento un resultado deseado(DATOS DE SALIDA).
+El procedimiento representa un conjunto de operaciones, acciones o instrucciones
+
+<!------------------ ESTRUCTURAD DE CONTROL --------------------->
+## ESTRUCTURAS DE CONTROL:
