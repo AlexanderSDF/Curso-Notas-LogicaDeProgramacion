@@ -18,4 +18,14 @@ El procedimiento representa un conjunto de operaciones, acciones o instrucciones
 - Son definidos y clasificados para resolver diferentes problemas computacionales, ya que existen diferentes tipos de datos a procesar.
 ### TIPOS DE DATOS:
 - Determina el caracter del dato y como son almacenados, se clasifican en NUMERICOS(nros enteros o reales), BOOLEANOS(true/false), CARACTER(char) Y CADENA(string)
+### OPERACIONES:
+Los operadores se dividen en ALGEBRAICOS Y RACIONALES.
+- ALGEBRAICOS: (+)suma, (-)resta, (*)muiltiplicacion, (/)division y (resto/modulo)MOD.
+- RACIONALES: ()=)igual, (<>)diferente, (!=)distinto, (<)menor, (<=)menor o igual, (>)mayor, (>=)mayor o igual.
+### EXPRESIONES:
+- Los datos junto a las operaciones definen EXPRECIONES. Estas pueden producir nuevos datos como EXPRESIONES LOGICAS o NUMERICAS.
+- EXPRESIONES LOGICAS: evaluan el contenido de una exprecion y devuelven un resultado booleano. Las mas comunes incluyen peradores como CONJUNCION, DISYUNCION Y NEGACION.
 
+- EXPRESIONES NUMERICAS: son resultado de operaciones numericas mediante operadores algebraicos.
+### VARIABLES (VAR)
+- Contenedor que iden
